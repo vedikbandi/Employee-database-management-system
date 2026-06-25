@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1001,
+    "imageUrl": "gf.png",
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "email": "aarav.sharma@gmail.com",
+    "contactNumber": "9876543210",
+    "age": 43,
+    "dob": "26/08/1979",
+    "salary": 1,
+    "address": "Bengaluru, Karnataka"
+  },
+  {
+    "id": 1002,
+    "imageUrl": "gf.png",
+    "firstName": "Ananya",
+    "lastName": "Patel",
+    "email": "ananya.patel@gmail.com",
+    "contactNumber": "9123456780",
+    "age": 60,
+    "dob": "28/06/1962",
+    "salary": 2,
+    "address": "Ahmedabad, Gujarat"
+  },
+  {
+    "id": 1003,
+    "imageUrl": "gf.png",
+    "firstName": "Rohan",
+    "lastName": "Verma",
+    "email": "rohan.verma@gmail.com",
+    "contactNumber": "9988776655",
+    "age": 29,
+    "dob": "06/01/1993",
+    "salary": 3,
+    "address": "Pune, Maharashtra"
+  },
+  {
+    "id": 1004,
+    "imageUrl": "gf.png",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "email": "priya.reddy@gmail.com",
+    "contactNumber": "9012345678",
+    "age": 38,
+    "dob": "06/09/1984",
+    "salary": 4,
+    "address": "Hyderabad, Telangana"
+  },
+  {
+    "id": 1005,
+    "imageUrl": "gf.png",
+    "firstName": "Vikram",
+    "lastName": "Singh",
+    "email": "vikram.singh@gmail.com",
+    "contactNumber": "9765432109",
+    "age": 89,
+    "dob": "14/03/1933",
+    "salary": 5,
+    "address": "Jaipur, Rajasthan"
+  },
+  {
+    "id": 1006,
+    "imageUrl": "gf.png",
+    "firstName": "Sneha",
+    "lastName": "Kulkarni",
+    "email": "sneha.kulkarni@gmail.com",
+    "contactNumber": "9345678901",
+    "age": 56,
+    "dob": "24/07/1966",
+    "salary": 6,
+    "address": "Mumbai, Maharashtra"
+  },
+  {
+    "id": 1007,
+    "imageUrl": "gf.png",
+    "firstName": "Rahul",
+    "lastName": "Nair",
+    "email": "rahul.nair@gmail.com",
+    "contactNumber": "9456123789",
+    "age": 82,
+    "dob": "26/12/1940",
+    "salary": 7,
+    "address": "Kochi, Kerala"
+  },
+  {
+    "id": 1008,
+    "imageUrl": "gf.png",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "email": "meera.iyer@gmail.com",
+    "contactNumber": "9871234560",
+    "age": 36,
+    "dob": "24/06/1986",
+    "salary": 8,
+    "address": "Chennai, Tamil Nadu"
+  },
+  {
+    "id": 1009,
+    "imageUrl": "gf.png",
+    "firstName": "Arjun",
+    "lastName": "Joshi",
+    "email": "arjun.joshi@gmail.com",
+    "contactNumber": "9567890123",
+    "age": 66,
+    "dob": "17/08/1956",
+    "salary": 9,
+    "address": "Nagpur, Maharashtra"
+  },
+  {
+    "id": 1010,
+    "imageUrl": "gf.png",
+    "firstName": "Kavya",
+    "lastName": "Gupta",
+    "email": "kavya.gupta@gmail.com",
+    "contactNumber": "9898989898",
+    "age": 41,
+    "dob": "21/01/1981",
+    "salary": 10,
+    "address": "Delhi, India"
+  }
+]
